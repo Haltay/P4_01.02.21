@@ -748,7 +748,7 @@ h4 {
     margin-top: 50px;
 }
 
-.col-sm-4 {
+.col-sm-5 {
     width: 100%;
 }
 
@@ -756,7 +756,6 @@ h4 {
     display: inline;
     padding-right: 10%;
 }
-
 
 .avatar {
     box-shadow: 0px 4px 9px rgba(0, 0, 0, 0.3);
