@@ -741,6 +741,11 @@ h4 {
     margin-top: 24px;
 }
 
+.icone-title {
+    font-size: 0.5em;
+    margin-top: -100px;
+}
+
 .white {
     color: #FFFFFF!important;
 }
