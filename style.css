@@ -536,7 +536,7 @@ h4 {
     }
     .bloc-lg {
         width: 92%;
-        padding: 40px 0 0 0;
+        padding: 40px 0;
     }
     .bloc-lg #message {
         width: 95%;
@@ -546,7 +546,11 @@ h4 {
         margin-bottom: 5%;
     }
 
-    .bloc-sm,
+    .bloc-sm  {
+        margin-top: -50px;
+        padding-left: 0;
+        padding-right: 0;
+    }
     .bloc-md {
         padding-left: 0;
         padding-right: 0;
