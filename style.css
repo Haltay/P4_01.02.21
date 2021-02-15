@@ -535,8 +535,17 @@ h4 {
         padding-right: 0;
     }
     .bloc-lg {
-        padding: 40px 0;
+        width: 92%;
+        padding: 40px 0 0 0;
     }
+    .bloc-lg #message {
+        width: 95%;
+    }
+
+    .col-sm-6 {
+        margin-bottom: 5%;
+    }
+
     .bloc-sm,
     .bloc-md {
         padding-left: 0;
