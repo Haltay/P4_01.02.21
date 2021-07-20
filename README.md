@@ -25,4 +25,3 @@ You don't need any installation, just click on "[La Chouette Agence](https://hal
 [Piquante](https://github.com/Haltay/JoachimRecio_6_19052021) (back-end with Node Express) : follow instructions in "ReadMe"
 
 [Groupomania](https://github.com/Haltay/JoachimRecio_7_22062021) a social website (front-end in React, back-end in Node Express, Server with MySQL) : follow instructions in "ReadMe" :) 
-
